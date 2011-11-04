@@ -39,7 +39,7 @@
     
 <p>This is a command line tool.</p>
 <code>
-    java -jar json-schema-cli-1.0.0-SNAPSHOT.jar<br/>
+    java -jar json-schema-cli-1.0.0.jar<br/>
 <br/>
     Option "-f (-file, -dir)" is required<br/>
     java Main [options...] arguments...<br/>
